@@ -110,7 +110,7 @@ export const PERSONAL_INFO: PersonalInfo = {
   portraitPath: "/images/dev-yadav.jpg",
   socials: {
     github: "https://github.com/devyadav0011",
-    linkedin: "https://www.linkedin.com/in/devyadav0011",
+    linkedin: "https://linkedin.com/in/devxcoder",
     nimbluxLinkedin: "https://www.linkedin.com/company/nimblux/",
     nimbluxGithub: "https://github.com/orgs/Nimblux/dashboard",
     nimbluxWeb: "https://www.nimblux.xyz",

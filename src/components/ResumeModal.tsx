@@ -126,7 +126,7 @@ export default function ResumeModal() {
                 </a>
                 <span>•</span>
                 <a href={PERSONAL_INFO.socials.linkedin} target="_blank" rel="noopener noreferrer" className="text-neutral-300 hover:underline">
-                  linkedin.com/in/devyadav0011
+                  linkedin.com/in/devxcoder
                 </a>
               </div>
             </div>

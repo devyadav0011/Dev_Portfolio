@@ -37,7 +37,7 @@ ET
 BT
 /F2 9.5 Tf
 50 752 Td
-(Agra, UP, India  |  dev@nimblux.xyz  |  github.com/devyadav0011  |  linkedin.com/in/devyadav0011) Tj
+(Agra, UP, India  |  dev@nimblux.xyz  |  github.com/devyadav0011  |  linkedin.com/in/devxcoder) Tj
 ET
 BT
 /F1 12 Tf
