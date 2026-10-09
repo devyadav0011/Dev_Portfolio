@@ -98,7 +98,7 @@ export interface PersonalInfo {
 }
 
 export const PERSONAL_INFO: PersonalInfo = {
-  name: "Dev Yadav",
+  name: "Dev Kumar",
   handle: "devyadav0011",
   role: "Developer, B.Tech CSE Student, and Founder of NIMBLUX",
   tagline: "Building Products. Creating Impact. Exploring What's Next.",
@@ -106,7 +106,7 @@ export const PERSONAL_INFO: PersonalInfo = {
   college: "FET Agra College",
   education: "B.Tech Computer Science & Engineering (2025–2029)",
   location: "Agra, Uttar Pradesh, India",
-  email: "devyadav81711@gmail.com",
+  email: "dev@nimblux.xyz",
   portraitPath: "/images/dev-yadav.jpg",
   socials: {
     github: "https://github.com/devyadav0011",
@@ -116,8 +116,8 @@ export const PERSONAL_INFO: PersonalInfo = {
     nimbluxWeb: "https://www.nimblux.xyz",
   },
   metrics: {
-    communityMembers: "950+",
-    hackathonRegistrations: "600+",
+    communityMembers: "5000+",
+    hackathonRegistrations: "600+ Teams",
     productsBuilt: "6+",
     codeCommits: "500+",
   },
@@ -168,15 +168,15 @@ export const PROFILES: Record<ProfileMode, ProfileConfig> = {
     roleTitle: "Community Founder & Product Visionary",
     avatarBadge: "STARTUP",
     avatarGradient: "from-red-600 via-rose-600 to-amber-600",
-    summary: "Discover NIMBLUX, student ecosystem empowerment, 950+ community members, ORVIX Hackathon with 600+ registrations, and zero-to-one product shipping.",
+    summary: "Discover NIMBLUX, student ecosystem empowerment, 5000+ Nimblux members, ORVIX Hackathon with 600+ teams, and zero-to-one product shipping.",
     targetAudience: "Startup Founders, Community Leads & Venture Partners",
     recommendedFilters: ["community", "ai-saas"],
     primaryCtaText: "Discover NIMBLUX Ecosystem",
     primaryCtaLink: "/community",
     spotlightProjectId: "nimblux",
     keyHighlights: [
-      "Founder of NIMBLUX: Scaled to 950+ ambitious tech members",
-      "Organized ORVIX Hackathon with 600+ student registrations",
+      "Founder of NIMBLUX: Scaled to 5000+ ambitious tech members",
+      "Organized ORVIX Hackathon with 600+ teams",
       "Established campus ambassador network across regional institutions",
       "Product-first mindset: Fast execution, community-driven iteration"
     ]
@@ -225,8 +225,8 @@ export const PROJECTS: Project[] = [
     description: "A founder-led initiative focused on technology, innovation, community initiatives, hackathons, and empowering students with real-world developer opportunities.",
     problemSolved: "Tier-2 and tier-3 college engineering students often lack peer developer networks, mentorship, and high-energy hackathons to test their building skills.",
     keyFeatures: [
-      "Grew active technology community to 950+ tech members",
-      "Organized and hosted the ORVIX Hackathon with 600+ student registrations",
+      "Grew active technology community to 5000+ Nimblux members",
+      "Organized and hosted the ORVIX Hackathon with 600+ teams",
       "Built a campus ambassador network bridging student innovators across colleges",
       "Conducted interactive webinars, code clinics, and collaborative project jams"
     ],
@@ -241,7 +241,7 @@ export const PROJECTS: Project[] = [
     status: "Active Community",
     thumbnail: "/images/projects/nimblux.svg",
     backdrop: "/images/projects/nimblux-banner.svg",
-    stats: { label: "Milestone", value: "950+ Members & 600+ Hackathon Regs" },
+    stats: { label: "Milestone", value: "5000+ Members & 600+ Teams" },
     founderNotes: "Starting NIMBLUX taught me leadership, team coordination, and the undeniable power of community-driven building.",
     technicalHighlights: [
       "Managed digital portal and event landing pages handling hundreds of registrations",
@@ -436,8 +436,8 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
     iconName: "Users",
     description: "Driving developer initiatives, organizing large-scale student hackathons, and founder execution.",
     skills: [
-      { name: "Community Leadership (NIMBLUX)", level: "Founder", experience: "950+ Members", popular: true },
-      { name: "Hackathon Organizing (ORVIX)", level: "Lead Organizer", experience: "600+ Participants", popular: true },
+      { name: "Community Leadership (NIMBLUX)", level: "Founder", experience: "5000+ Members", popular: true },
+      { name: "Hackathon Organizing (ORVIX)", level: "Lead Organizer", experience: "600+ Teams", popular: true },
       { name: "Campus Ambassador Networks", level: "Lead", experience: "Regional Colleges" },
       { name: "Technical Mentorship", level: "Mentor", experience: "Peer Cohorts" },
       { name: "Public Speaking & Workshops", level: "Speaker", experience: "Tech Sessions" }
@@ -448,17 +448,17 @@ export const SKILL_CATEGORIES: SkillCategory[] = [
 export const MILESTONES: MilestoneItem[] = [
   {
     id: "community-members",
-    metric: "950+",
-    label: "Community Members",
-    description: "Built NIMBLUX into a thriving innovation and tech community for passionate developers and students.",
+    metric: "5000+",
+    label: "NIMBLUX Members",
+    description: "Built NIMBLUX into a thriving innovation and tech community of 5000+ passionate developers and students.",
     category: "Community",
     highlightBadge: "Founder Impact"
   },
   {
     id: "hackathon-registrations",
     metric: "600+",
-    label: "ORVIX Hackathon Registrations",
-    description: "Successfully organized ORVIX Hackathon, bringing hundreds of student developers together to build.",
+    label: "Teams in ORVIX Hackathon",
+    description: "Successfully organized ORVIX Hackathon, mobilizing over 600+ teams to innovate and build.",
     category: "Hackathon",
     highlightBadge: "Flagship Event"
   },
@@ -526,7 +526,7 @@ export const BEYOND_KEYBOARD_ITEMS = [
     icon: "Compass",
     title: "Problem Solving & First Principles",
     tagline: "Deconstructing Complex Systems",
-    description: "Whether it is designing an ATS scoring algorithm or planning hackathon logistics for 600+ students, I approach challenges with a structured, first-principles mindset."
+    description: "Whether it is designing an ATS scoring algorithm or planning hackathon logistics for 600+ teams, I approach challenges with a structured, first-principles mindset."
   }
 ];
 

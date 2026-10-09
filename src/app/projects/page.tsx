@@ -45,7 +45,7 @@ export default function ProjectsCatalogPage() {
               All Titles &amp; Projects
             </h1>
             <p className="mt-2 text-sm sm:text-base text-neutral-400 max-w-2xl">
-              Browse the complete portfolio of software products, AI experiments, open-source utilities, and community ventures built by Dev Yadav.
+              Browse the complete portfolio of software products, AI experiments, open-source utilities, and community ventures built by Dev Kumar.
             </p>
           </div>
 

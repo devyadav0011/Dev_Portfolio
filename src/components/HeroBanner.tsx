@@ -201,7 +201,7 @@ export default function HeroBanner() {
                   <div className="relative h-[400px] sm:h-[440px] w-full overflow-hidden bg-neutral-900">
                     <Image
                       src={PERSONAL_INFO.portraitPath}
-                      alt="Dev Yadav - Developer and NIMBLUX Founder"
+                      alt="Dev Kumar - Developer and NIMBLUX Founder"
                       fill
                       priority
                       className="object-cover object-top hover:scale-105 transition-transform duration-700"
@@ -220,7 +220,7 @@ export default function HeroBanner() {
 
                     {/* Top Right Streaming Badge */}
                     <div className="absolute top-4 right-4 z-10 px-2.5 py-1 rounded-md bg-[#e50914] text-white text-[10px] font-black uppercase tracking-wider">
-                      DEV YADAV
+                      DEV KUMAR
                     </div>
                   </div>
 
@@ -228,7 +228,7 @@ export default function HeroBanner() {
                   <div className="p-5 bg-[#0d0f17] border-t border-white/10">
                     <div className="flex items-center justify-between">
                       <div>
-                        <h3 className="text-lg font-bold text-white">Dev Yadav</h3>
+                        <h3 className="text-lg font-bold text-white">Dev Kumar</h3>
                         <p className="text-xs text-neutral-400">
                           B.Tech CSE &bull; Founder of NIMBLUX
                         </p>
@@ -244,7 +244,7 @@ export default function HeroBanner() {
                     <div className="mt-3 pt-3 border-t border-white/5 flex items-center justify-between text-[11px] text-neutral-400">
                       <span>FET Agra College</span>
                       <span className="text-neutral-500">•</span>
-                      <span className="text-[#e50914] font-semibold">950+ Community</span>
+                      <span className="text-[#e50914] font-semibold">5000+ Community</span>
                       <span className="text-neutral-500">•</span>
                       <span>Agra, India</span>
                     </div>

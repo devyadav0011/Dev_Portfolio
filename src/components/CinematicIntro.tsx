@@ -64,11 +64,11 @@ export default function CinematicIntro() {
                 className="absolute inset-0 w-1/2 bg-gradient-to-r from-transparent via-white/20 to-transparent skew-x-12"
               />
 
-              {/* DY Monogram code symbol */}
+              {/* DK Monogram code symbol */}
               <div className="flex items-center gap-1">
                 <span className="text-3xl sm:text-4xl font-black text-white tracking-tighter">D</span>
                 <span className="text-2xl sm:text-3xl font-extrabold text-[#e50914]">/</span>
-                <span className="text-3xl sm:text-4xl font-black text-white tracking-tighter">Y</span>
+                <span className="text-3xl sm:text-4xl font-black text-white tracking-tighter">K</span>
               </div>
             </div>
           </motion.div>
@@ -81,7 +81,7 @@ export default function CinematicIntro() {
             className="mt-6 text-center"
           >
             <h1 className="text-2xl sm:text-3xl font-black tracking-[0.25em] text-white uppercase">
-              DEV <span className="text-[#e50914]">YADAV</span>
+              DEV <span className="text-[#e50914]">KUMAR</span>
             </h1>
             <p className="mt-2 text-xs sm:text-sm font-medium tracking-widest text-neutral-400 uppercase">
               Building Products &bull; Creating Impact

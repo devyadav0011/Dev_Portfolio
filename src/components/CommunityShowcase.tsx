@@ -36,7 +36,7 @@ export default function CommunityShowcase() {
               NIMBLUX Ecosystem &amp; ORVIX Hackathon
             </h2>
             <p className="mt-2 text-sm sm:text-base text-neutral-300 max-w-2xl">
-              Founded and spearheaded by Dev Yadav to bridge tier-2/3 college students with real-world developer opportunities, hackathons, and high-energy collaborative building.
+              Founded and spearheaded by Dev Kumar to bridge tier-2/3 college students with real-world developer opportunities, hackathons, and high-energy collaborative building.
             </p>
           </div>
 
@@ -104,7 +104,7 @@ export default function CommunityShowcase() {
               {PERSONAL_INFO.metrics.hackathonRegistrations}
             </div>
             <p className="mt-2 text-xs sm:text-sm text-neutral-400">
-              Registrations for the ORVIX Hackathon, mobilizing students to build innovative tech solutions under time pressure.
+              Teams participated in the ORVIX Hackathon, mobilizing student developers to build innovative tech solutions under time pressure.
             </p>
           </div>
 

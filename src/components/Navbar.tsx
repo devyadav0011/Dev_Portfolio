@@ -75,18 +75,18 @@ export default function Navbar() {
               <Link
                 href="/"
                 className="flex items-center gap-2.5 group focus:outline-none focus:ring-2 focus:ring-[#e50914] rounded-lg"
-                aria-label="Dev Yadav Home"
+                aria-label="Dev Kumar Home"
               >
                 <div className="relative flex items-center justify-center w-9 h-9 rounded-lg bg-gradient-to-br from-[#ff2a38] to-[#b8000a] p-[1px] shadow-[0_0_15px_rgba(229,9,20,0.5)] group-hover:scale-105 transition-transform">
                   <div className="w-full h-full bg-[#0a0b12] rounded-[7px] flex items-center justify-center font-black text-sm tracking-tighter text-white">
                     <span>D</span>
                     <span className="text-[#e50914]">/</span>
-                    <span>Y</span>
+                    <span>K</span>
                   </div>
                 </div>
                 <div className="flex flex-col">
                   <span className="font-extrabold tracking-wider text-base sm:text-lg text-white group-hover:text-neutral-200 transition-colors">
-                    DEV <span className="text-[#e50914]">YADAV</span>
+                    DEV <span className="text-[#e50914]">KUMAR</span>
                   </span>
                   <span className="text-[10px] tracking-widest text-neutral-400 uppercase -mt-1 font-semibold">
                     STREAM

@@ -147,7 +147,7 @@ export default function HomePage() {
       {/* Row 8: Education & Learning Journey (FET Agra College) */}
       <EducationTimeline />
 
-      {/* Row 9: Achievements & Milestones (950+ members, 600+ regs) */}
+      {/* Row 9: Achievements & Milestones (5000+ members, 600+ teams) */}
       <MilestonesSection />
 
       {/* Row 10: Beyond the Keyboard */}

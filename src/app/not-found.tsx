@@ -25,7 +25,7 @@ export default function NotFound() {
           </h1>
 
           <p className="mt-3 text-sm text-neutral-400 leading-relaxed max-w-sm">
-            The page or project title you requested isn&apos;t currently available in Dev Yadav&apos;s streaming directory.
+            The page or project title you requested isn&apos;t currently available in Dev Kumar&apos;s streaming directory.
           </p>
 
           <div className="mt-8 flex flex-col sm:flex-row items-center gap-3 w-full justify-center">

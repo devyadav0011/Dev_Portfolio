@@ -83,7 +83,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link href="/about" className="hover:text-white hover:underline transition-colors">
-                  About Dev Yadav
+                  About Dev Kumar
                 </Link>
               </li>
               <li>
@@ -233,10 +233,10 @@ export default function Footer() {
         <div className="pt-8 border-t border-white/5 flex flex-col sm:flex-row items-center justify-between gap-4 text-[11px] text-neutral-500">
           <div className="flex items-center gap-2">
             <div className="w-5 h-5 rounded bg-[#e50914] flex items-center justify-center text-white font-black text-[10px]">
-              DY
+              DK
             </div>
             <span>
-              &copy; {new Date().getFullYear()} Dev Yadav. DEV YADAV &bull; Building Products &amp; Communities.
+              &copy; {new Date().getFullYear()} Dev Kumar. DEV KUMAR &bull; Building Products &amp; Communities.
             </span>
           </div>
 

@@ -59,7 +59,7 @@ export default function ContactSection() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     const activeMsg = message || topics.find((t) => t.id === topic)?.defaultMsg || '';
-    const subject = encodeURIComponent(`Connecting with Dev Yadav: ${topics.find((t) => t.id === topic)?.label}`);
+    const subject = encodeURIComponent(`Connecting with Dev Kumar: ${topics.find((t) => t.id === topic)?.label}`);
     const body = encodeURIComponent(
       `From: ${senderName || 'Anonymous'} (${senderEmail || 'No email provided'})\n\nMessage:\n${activeMsg}`
     );
@@ -237,7 +237,7 @@ export default function ContactSection() {
                 <LinkedinIcon className="w-5 h-5 text-[#0077b5]" />
                 <div>
                   <span className="text-xs font-bold text-white block">LinkedIn</span>
-                  <span className="text-[10px] text-neutral-400">Dev Yadav</span>
+                  <span className="text-[10px] text-neutral-400">Dev Kumar</span>
                 </div>
               </div>
               <span className="text-xs text-neutral-400 group-hover:text-white">&rarr;</span>

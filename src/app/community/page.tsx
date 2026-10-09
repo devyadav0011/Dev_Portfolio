@@ -37,7 +37,7 @@ export default function CommunityPage() {
         {/* Big Impact Numbers Banner */}
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6 mb-16">
           <div className="p-6 rounded-2xl bg-[#0f111a] border border-white/10 text-left">
-            <div className="text-4xl font-black text-white mb-1">950+</div>
+            <div className="text-4xl font-black text-white mb-1">5000+</div>
             <div className="text-xs font-bold uppercase tracking-wider text-[#e50914]">
               Community Members
             </div>
@@ -49,10 +49,10 @@ export default function CommunityPage() {
           <div className="p-6 rounded-2xl bg-[#0f111a] border border-white/10 text-left">
             <div className="text-4xl font-black text-white mb-1">600+</div>
             <div className="text-xs font-bold uppercase tracking-wider text-purple-400">
-              ORVIX Hackathon Regs
+              Teams in ORVIX Hackathon
             </div>
             <p className="mt-2 text-xs text-neutral-400">
-              Students participated in solving real problems during our flagship hackathon.
+              Teams participated in solving real problems during our flagship hackathon.
             </p>
           </div>
 
@@ -90,7 +90,7 @@ export default function CommunityPage() {
               I founded <strong className="text-white">NIMBLUX</strong> to be the launchpad. We started organizing interactive learning sessions, live code walkthroughs, and problem-solving workshops. This culminated in our flagship event: the <strong className="text-white">ORVIX Hackathon</strong>.
             </p>
             <p>
-              With over 600 registrations, ORVIX proved that when you give students clear problem statements, high-energy community support, and structured mentorship, they build incredible things.
+              With over 600+ teams, ORVIX proved that when you give students clear problem statements, high-energy community support, and structured mentorship, they build incredible things.
             </p>
           </div>
 
@@ -174,7 +174,7 @@ export default function CommunityPage() {
             href="/contact"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-[#e50914] hover:bg-[#ff1e27] text-white font-bold text-xs uppercase tracking-wider transition-all"
           >
-            <span>Reach Out to Dev Yadav</span>
+            <span>Reach Out to Dev Kumar</span>
             <ArrowRight className="w-4 h-4" />
           </Link>
         </div>

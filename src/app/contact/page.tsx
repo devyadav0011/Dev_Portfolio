@@ -18,7 +18,7 @@ export default function ContactPage() {
             </span>
           </div>
           <h1 className="text-3xl sm:text-5xl font-black text-white tracking-tight">
-            Connect with Dev Yadav
+            Connect with Dev Kumar
           </h1>
           <p className="mt-2 text-base sm:text-lg text-neutral-300 max-w-2xl">
             Have a role, project idea, hackathon proposal, or want to discuss AI tools? I respond promptly to inquiries.

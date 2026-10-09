@@ -214,7 +214,7 @@ export default function ProjectModal() {
             {selectedProject.founderNotes && (
               <div className="p-4 rounded-xl bg-[#e50914]/5 border border-[#e50914]/20">
                 <h4 className="text-[11px] font-bold uppercase tracking-wider text-[#e50914] mb-1">
-                  Builder Notes by Dev Yadav
+                  Builder Notes by Dev Kumar
                 </h4>
                 <p className="text-xs text-neutral-300 italic">
                   &ldquo;{selectedProject.founderNotes}&rdquo;
@@ -242,7 +242,7 @@ export default function ProjectModal() {
 
           {/* Footer Bar */}
           <div className="p-4 bg-[#0a0b10] border-t border-white/5 flex items-center justify-between text-xs text-neutral-500">
-            <span>Dev Yadav &bull; Portfolio Catalog</span>
+            <span>Dev Kumar &bull; Portfolio Catalog</span>
             <button
               onClick={() => setSelectedProject(null)}
               className="px-4 py-1.5 rounded-lg bg-white/10 hover:bg-white/15 text-white font-semibold transition-colors"

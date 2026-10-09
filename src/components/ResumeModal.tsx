@@ -73,7 +73,7 @@ export default function ResumeModal() {
               </div>
               <div>
                 <h2 id="resume-title" className="text-base font-bold text-white">
-                  Dev Yadav &bull; Official Resume
+                  Dev Kumar &bull; Official Resume
                 </h2>
                 <p className="text-[11px] text-neutral-400">
                   B.Tech CSE (2025–2029) &bull; Developer &bull; NIMBLUX Founder
@@ -85,7 +85,7 @@ export default function ResumeModal() {
               {/* Direct PDF Download Button */}
               <a
                 href="/dev-yadav-resume.pdf"
-                download="Dev_Yadav_Resume.pdf"
+                download="Dev_Kumar_Resume.pdf"
                 onClick={handleDownload}
                 className="flex items-center gap-2 px-4 py-2 rounded-lg bg-[#e50914] hover:bg-[#ff1e27] text-white font-bold text-xs uppercase tracking-wider transition-all shadow-[0_0_15px_rgba(229,9,20,0.4)]"
               >
@@ -109,7 +109,7 @@ export default function ResumeModal() {
             {/* Resume Top Contact Banner */}
             <div className="border-b border-white/10 pb-6">
               <h1 className="text-2xl sm:text-3xl font-black text-white tracking-tight">
-                DEV YADAV
+                DEV KUMAR
               </h1>
               <p className="text-sm font-semibold text-[#e50914] mt-1">
                 Software Engineer &bull; B.Tech CSE Student &bull; Founder of NIMBLUX
@@ -169,8 +169,8 @@ export default function ResumeModal() {
                   <span className="text-xs text-neutral-400">2024 – Present</span>
                 </div>
                 <ul className="list-disc list-inside space-y-1 text-xs text-neutral-300">
-                  <li>Built and grew an active student and developer community to <strong>950+ members</strong> across digital platforms.</li>
-                  <li>Spearheaded and directed the <strong>ORVIX Hackathon</strong>, receiving <strong>600+ student registrations</strong> from multiple campuses.</li>
+                  <li>Built and grew an active student and developer community to <strong>5000+ members</strong> across digital platforms.</li>
+                  <li>Spearheaded and directed the <strong>ORVIX Hackathon</strong>, receiving <strong>600+ teams</strong> from multiple campuses across India.</li>
                   <li>Established campus ambassador programs and conducted tech bootcamps on Web Development, Git, and Project Building.</li>
                 </ul>
               </div>

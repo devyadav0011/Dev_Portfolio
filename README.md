@@ -1,7 +1,7 @@
-# Dev Yadav — Cinematic Streaming Developer Portfolio
+# Dev Kumar — Cinematic Streaming Developer Portfolio
 
 > **"Building Products. Creating Impact. Exploring What's Next."**  
-> A premium personal portfolio website inspired by modern cinematic streaming platforms, built for **Dev Yadav**—Developer, B.Tech CSE student at **FET Agra College (2025–2029)**, and Founder of **NIMBLUX**.
+> A premium personal portfolio website inspired by modern cinematic streaming platforms, built for **Dev Kumar**—Developer, B.Tech CSE student at **FET Agra College (2025–2029)**, and Founder of **NIMBLUX** (`dev@nimblux.xyz`).
 
 ---
 
@@ -11,7 +11,7 @@
 - **Interactive Profile Switcher ("Who's Exploring?")**:
   - 💼 **Recruiter Mode**: Prioritizes production software, core competencies, education at FET Agra College, resume viewer, and contact channels.
   - 🛠️ **Developer Mode**: Prioritizes GitHub repositories, Python/OpenCV computer vision tools, technical architecture, and open-source contributions.
-  - 🚀 **Founder Mode**: Prioritizes NIMBLUX, student community impact (950+ members), ORVIX Hackathon (600+ registrations), and campus ambassador leadership.
+  - 🚀 **Founder Mode**: Prioritizes NIMBLUX, student community impact (5000+ members), ORVIX Hackathon (600+ teams), and campus ambassador leadership.
 - **Cinematic Opening Reveal**: Tasteful, skippable animated monogram intro with visual glow fallbacks (zero autoplay sound).
 - **Comprehensive Project Showcase**:
   - **CareerLense**: AI-powered resume builder, analyzer, and ATS intelligence platform (`careerlense.xyz`).
@@ -21,7 +21,7 @@
   - **Brahmastra AI**: Voice-powered AI desktop assistant & natural language query engine.
   - **Dev Shopee**: Modern full-stack e-commerce storefront with reactive state.
 - **In-Depth Project Modals**: Overview, problem solved, key features, technical decisions, founder notes, and verified external links.
-- **NIMBLUX Founder & Community Hub**: Dedicated showcase with verified historical milestones (950+ community members, 600+ ORVIX Hackathon registrations).
+- **NIMBLUX Founder & Community Hub**: Dedicated showcase with verified historical milestones (5000+ community members, 600+ Teams in ORVIX Hackathon).
 - **Verified Downloadable Resume**: Real PDF document integrated at `/dev-yadav-resume.pdf` with confetti animation and dedicated print-ready route at `/resume`.
 - **Search & Filter Matrix**: Real-time multi-keyword search, category pills, and featured toggle.
 - **Dedicated Routes**:
@@ -134,7 +134,7 @@ All portfolio data is centralized in **[`src/data/portfolioData.ts`](file:///d:/
    - `liveUrl`: URL for live demo (omitted automatically if empty string)
    - `githubUrl`: URL for GitHub repository (omitted automatically if empty string)
    - `keyFeatures`, `technicalHighlights`, `founderNotes`, etc.
-3. **Milestones**: Configure milestone counts (such as `950+ Community Members` or `600+ Hackathon Registrations`) in `MILESTONES`.
+3. **Milestones**: Configure milestone counts (such as `5000+ Community Members` or `600+ Teams in ORVIX Hackathon`) in `MILESTONES`.
 4. **Portrait Photograph**: Replace **[`public/images/dev-yadav.jpg`](file:///d:/Dev_Portfolio/public/images/dev-yadav.jpg)** with any new portrait image.
 5. **Resume Document**: Replace **[`public/dev-yadav-resume.pdf`](file:///d:/Dev_Portfolio/public/dev-yadav-resume.pdf)** with any updated resume PDF.
 
@@ -145,7 +145,7 @@ All portfolio data is centralized in **[`src/data/portfolioData.ts`](file:///d:/
 1. Push this repository to GitHub:
    ```bash
    git add .
-   git commit -m "feat: complete cinematic streaming portfolio for Dev Yadav"
+   git commit -m "feat: complete cinematic streaming portfolio for Dev Kumar"
    git remote add origin https://github.com/devyadav0011/Dev_Portfolio.git
    git push -u origin main
    ```

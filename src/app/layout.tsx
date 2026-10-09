@@ -21,11 +21,11 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://devyadav.me'),
-  title: 'Dev Yadav | Developer, B.Tech CSE & NIMBLUX Founder',
+  title: 'Dev Kumar | Developer, B.Tech CSE & NIMBLUX Founder',
   description:
-    'Building Products. Creating Impact. Exploring What\'s Next. Portfolio of Dev Yadav—developer, AI enthusiast, and founder of NIMBLUX. B.Tech CSE student at FET Agra College (2025–2029).',
+    'Building Products. Creating Impact. Exploring What\'s Next. Portfolio of Dev Kumar—developer, AI enthusiast, and founder of NIMBLUX. B.Tech CSE student at FET Agra College (2025–2029).',
   keywords: [
-    'Dev Yadav',
+    'Dev Kumar',
     'NIMBLUX',
     'CareerLense',
     'FET Agra College',
@@ -36,28 +36,28 @@ export const metadata: Metadata = {
     'Next.js',
     'TypeScript',
   ],
-  authors: [{ name: 'Dev Yadav' }],
-  creator: 'Dev Yadav',
+  authors: [{ name: 'Dev Kumar' }],
+  creator: 'Dev Kumar',
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://devyadav.me',
-    title: 'Dev Yadav | Developer & NIMBLUX Founder',
+    title: 'Dev Kumar | Developer & NIMBLUX Founder',
     description:
       'Building Products. Creating Impact. Exploring What\'s Next. Cinematic developer portfolio for exploring projects, community impact, and open source tools.',
-    siteName: 'Dev Yadav Portfolio',
+    siteName: 'Dev Kumar Portfolio',
     images: [
       {
         url: '/images/projects/careerlense.svg',
         width: 1200,
         height: 630,
-        alt: 'Dev Yadav Portfolio',
+        alt: 'Dev Kumar Portfolio',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Dev Yadav | Developer & NIMBLUX Founder',
+    title: 'Dev Kumar | Developer & NIMBLUX Founder',
     description:
       'Building Products. Creating Impact. Exploring What\'s Next.',
     creator: '@devyadav0011',

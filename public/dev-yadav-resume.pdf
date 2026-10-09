@@ -6,98 +6,175 @@ endobj
 << /Type /Pages /Kids [3 0 R] /Count 1 >>
 endobj
 3 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Contents 4 0 R /Resources << /Font << /F1 5 0 R >> >> >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.28 841.89] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
 endobj
 4 0 obj
-<< /Length 2212 >>
-stream
-BT
-/F1 20 Tf
-50 780 Td
-(DEV YADAV - SOFTWARE ENGINEER & FOUNDER) Tj
-/F1 10 Tf
-0 -18 Td
-(Agra, Uttar Pradesh, India | devyadav81711@gmail.com | github.com/devyadav0011 | linkedin.com/in/devyadav0011) Tj
-
-/F1 13 Tf
-0 -26 Td
-(EDUCATION) Tj
-/F1 10 Tf
-0 -15 Td
-(FET Agra College - B.Tech in Computer Science & Engineering (2025 - 2029)) Tj
-0 -13 Td
-(Key coursework: Data Structures, Algorithms, Software Engineering, AI & Web Architecture) Tj
-
-/F1 13 Tf
-0 -24 Td
-(ENTREPRENEURIAL & LEADERSHIP EXPERIENCE) Tj
-/F1 11 Tf
-0 -15 Td
-(Founder | NIMBLUX (nimblux.xyz)) Tj
-/F1 10 Tf
-0 -13 Td
-(- Grew an active tech innovation and student developer community to 950+ members.) Tj
-0 -13 Td
-(- Organized and led the ORVIX Hackathon with 600+ student registrations.) Tj
-0 -13 Td
-(- Spearheaded campus ambassador programs, peer mentorship cohorts, and project build-nights.) Tj
-
-/F1 13 Tf
-0 -24 Td
-(FEATURED PROJECTS) Tj
-/F1 11 Tf
-0 -15 Td
-(CareerLense (careerlense.xyz) - AI-Powered Resume Intelligence & ATS Platform) Tj
-/F1 10 Tf
-0 -13 Td
-(- Engineered an ATS score analyzer with line-by-line AI recommendations and job matching.) Tj
-0 -13 Td
-(- Built using Next.js App Router, TypeScript, Tailwind CSS, OpenAI LLM API, and PostgreSQL.) Tj
-
-/F1 11 Tf
-0 -18 Td
-(Gemini Watermark Remover (github.com/devyadav0011/gemini-watermark-remover)) Tj
-/F1 10 Tf
-0 -13 Td
-(- Developed open-source Python computer vision tool utilizing OpenCV inpainting algorithms.) Tj
-0 -13 Td
-(- Supports automated coordinate detection and batch media reconstruction.) Tj
-
-/F1 11 Tf
-0 -18 Td
-(WallPC / Nimwall (github.com/devyadav0011/wallpc)) Tj
-/F1 10 Tf
-0 -13 Td
-(- Ultra-HD curated 4K wallpaper discovery platform built with React, Next.js, and Unsplash API.) Tj
-
-/F1 13 Tf
-0 -24 Td
-(TECHNICAL SKILLS) Tj
-/F1 10 Tf
-0 -14 Td
-(Languages & Frontend: TypeScript, JavaScript, Python, React, Next.js, Tailwind CSS, Framer Motion) Tj
-0 -13 Td
-(Backend & Database: Node.js, Express, Python, REST APIs, PostgreSQL, MongoDB, Next.js API Routes) Tj
-0 -13 Td
-(AI & Tools: OpenAI / Gemini APIs, OpenCV, Computer Vision, Git, GitHub, Vercel, VS Code) Tj
-0 -13 Td
-(Leadership: Community Management, Event Operations, Hackathon Direction, Campus Ambassadorship) Tj
-ET
-endstream
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
 endobj
 5 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
 endobj
+6 0 obj
+<< /Length 2672 >>
+stream
+BT
+/F1 22 Tf
+50 790 Td
+(DEV KUMAR) Tj
+ET
+BT
+/F1 11 Tf
+50 770 Td
+(Developer | Founder of NIMBLUX | B.Tech CSE Student) Tj
+ET
+BT
+/F2 9.5 Tf
+50 752 Td
+(Agra, UP, India  |  dev@nimblux.xyz  |  github.com/devyadav0011  |  linkedin.com/in/devyadav0011) Tj
+ET
+BT
+/F1 12 Tf
+50 720 Td
+(EDUCATION) Tj
+ET
+BT
+/F1 10 Tf
+50 702 Td
+(FET Agra College - B.Tech in Computer Science & Engineering) Tj
+ET
+BT
+/F2 9.5 Tf
+50 688 Td
+(2025 - 2029  |  Agra, Uttar Pradesh) Tj
+ET
+BT
+/F2 9 Tf
+50 674 Td
+(Coursework: Data Structures, Algorithms, Software Engineering, Web Systems, AI Fundamentals.) Tj
+ET
+BT
+/F1 12 Tf
+50 642 Td
+(LEADERSHIP & STARTUP EXPERIENCE) Tj
+ET
+BT
+/F1 10 Tf
+50 624 Td
+(Founder - NIMBLUX (nimblux.xyz)) Tj
+ET
+BT
+/F2 9.5 Tf
+50 610 Td
+(2024 - Present) Tj
+ET
+BT
+/F2 9 Tf
+50 596 Td
+(- Founded and grew an active tech student community to 5000+ members across digital platforms.) Tj
+ET
+BT
+/F2 9 Tf
+50 582 Td
+(- Directed the flagship ORVIX Hackathon with 600+ teams participating across engineering colleges.) Tj
+ET
+BT
+/F2 9 Tf
+50 568 Td
+(- Established campus ambassador programs and conducted tech bootcamps on Web Dev & Git.) Tj
+ET
+BT
+/F1 12 Tf
+50 536 Td
+(FEATURED PROJECTS) Tj
+ET
+BT
+/F1 10 Tf
+50 518 Td
+(CareerLense (careerlense.xyz) - AI Resume Analyzer & ATS Platform) Tj
+ET
+BT
+/F2 9 Tf
+50 504 Td
+(- Engineered an AI platform providing resume analysis, score breakdowns, and career suggestions.) Tj
+ET
+BT
+/F2 9 Tf
+50 490 Td
+(- Next.js App Router, TypeScript, Tailwind CSS, OpenAI LLM API, Node.js, PostgreSQL) Tj
+ET
+BT
+/F1 10 Tf
+50 468 Td
+(Gemini Watermark Remover - Open Source Computer Vision Tool) Tj
+ET
+BT
+/F2 9 Tf
+50 454 Td
+(- Automated Python utility leveraging OpenCV inpainting to clean watermarks from AI media.) Tj
+ET
+BT
+/F2 9 Tf
+50 440 Td
+(- Python, OpenCV Inpainting, NumPy, Image Processing, Open Source) Tj
+ET
+BT
+/F1 10 Tf
+50 418 Td
+(WallPC / Nimwall - 4K Desktop Wallpaper Platform) Tj
+ET
+BT
+/F2 9 Tf
+50 404 Td
+(- Zero-ad wallpaper discovery portal with high-resolution curation and responsive design.) Tj
+ET
+BT
+/F2 9 Tf
+50 390 Td
+(- React, Next.js, Tailwind CSS, REST APIs, Image Optimization) Tj
+ET
+BT
+/F1 12 Tf
+50 358 Td
+(TECHNICAL SKILLS) Tj
+ET
+BT
+/F2 9 Tf
+50 340 Td
+(Languages: TypeScript, JavaScript, Python, HTML5, CSS3, SQL) Tj
+ET
+BT
+/F2 9 Tf
+50 326 Td
+(Frontend: React 19, Next.js (App Router), Tailwind CSS v4, Framer Motion) Tj
+ET
+BT
+/F2 9 Tf
+50 312 Td
+(Backend & DB: Node.js, Express, Next.js API Routes, PostgreSQL, MongoDB, RESTful APIs) Tj
+ET
+BT
+/F2 9 Tf
+50 298 Td
+(AI & Vision: OpenAI API, Gemini API, OpenCV Inpainting, NLP, Speech Recognition) Tj
+ET
+BT
+/F2 9 Tf
+50 284 Td
+(Tools & Ecosystem: Git, GitHub, Vercel, VS Code, Postman, Linux CLI) Tj
+ET
+endstream
+endobj
 xref
-0 6
+0 7
 0000000000 65535 f 
 0000000009 00000 n 
 0000000058 00000 n 
 0000000115 00000 n 
-0000000234 00000 n 
-0000000300 00000 n 
+0000000266 00000 n 
+0000000340 00000 n 
+0000000409 00000 n 
 trailer
-<< /Size 6 /Root 1 0 R >>
+<< /Size 7 /Root 1 0 R >>
 startxref
-2582
+3141
 %%EOF

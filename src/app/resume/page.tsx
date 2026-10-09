@@ -57,7 +57,7 @@ export default function ResumePage() {
             {/* Direct download linking to the actual PDF file */}
             <a
               href="/dev-yadav-resume.pdf"
-              download="Dev_Yadav_Resume.pdf"
+              download="Dev_Kumar_Resume.pdf"
               onClick={handleDownload}
               className="flex items-center gap-2 px-5 py-2.5 rounded-xl bg-[#e50914] hover:bg-[#ff1e27] text-white font-bold text-xs uppercase tracking-wider transition-all shadow-lg"
             >
@@ -72,7 +72,7 @@ export default function ResumePage() {
           {/* Header */}
           <div className="border-b border-white/10 print:border-neutral-300 pb-6">
             <h1 className="text-3xl sm:text-4xl font-black text-white print:text-black tracking-tight">
-              DEV YADAV
+              DEV KUMAR
             </h1>
             <p className="text-sm sm:text-base font-bold text-[#e50914] mt-1 print:text-red-700">
               Software Engineer &bull; B.Tech CSE &bull; Founder of NIMBLUX
@@ -137,10 +137,10 @@ export default function ResumePage() {
               </div>
               <ul className="list-disc list-inside space-y-1 text-xs text-neutral-300 print:text-neutral-800 leading-relaxed">
                 <li>
-                  Founded and scaled an active student developer community to <strong>950+ members</strong> across digital channels.
+                  Founded and scaled an active student developer community to <strong>5000+ members</strong> across digital channels.
                 </li>
                 <li>
-                  Conceptualized, planned, and organized the <strong>ORVIX Hackathon</strong>, achieving <strong>600+ student registrations</strong>.
+                  Conceptualized, planned, and organized the <strong>ORVIX Hackathon</strong>, achieving <strong>600+ teams</strong>.
                 </li>
                 <li>
                   Created cross-campus ambassador initiatives, hosting peer code clinics, Git workshops, and project showcases.
