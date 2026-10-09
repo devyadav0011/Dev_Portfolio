@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" width="160" height="40">
+  <defs>
+    <linearGradient id="logoRed" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff1a26"/>
+      <stop offset="100%" stop-color="#b8000a"/>
+    </linearGradient>
+    <filter id="logoGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Stylized Streaming Developer Mark: Monogram D with code slit -->
+  <g transform="translate(4, 4)">
+    <rect x="0" y="0" width="32" height="32" rx="8" fill="url(#logoRed)" filter="url(#logoGlow)"/>
+    <!-- Slash / Bracket symbol inside -->
+    <path d="M 12 10 L 8 16 L 12 22 M 20 10 L 24 16 L 20 22 M 17 8 L 15 24" fill="none" stroke="#ffffff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="44" y="24" fill="#ffffff" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="900" letter-spacing="1.5">DEV</text>
+  <text x="88" y="24" fill="#e50914" font-family="system-ui, -apple-system, sans-serif" font-size="18" font-weight="900" letter-spacing="1.5">YADAV</text>
+</svg>
